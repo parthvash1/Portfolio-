@@ -1,0 +1,84 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776952464355,
+  "projectRoot": "/home/frappe-15/Portfolio-",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "master",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "css": {
+      "path": "css",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1776952464341,
+      "keyFiles": [
+        "portfolio.css"
+      ]
+    },
+    "images": {
+      "path": "images",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1776952464348,
+      "keyFiles": []
+    },
+    "js": {
+      "path": "js",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1776952464350,
+      "keyFiles": [
+        "app.js"
+      ]
+    },
+    "pdf": {
+      "path": "pdf",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1776952464351,
+      "keyFiles": [
+        "Parth vashista CV .pdf"
+      ]
+    },
+    "plugins": {
+      "path": "plugins",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1776952464352,
+      "keyFiles": [
+        "isotope.js",
+        "magnify.css",
+        "magnify.js",
+        "ripple.js"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}
